@@ -136,13 +136,13 @@ To address the business challenges and uncover meaningful insights, this analysi
  
 ## 🖥️ Dashboard Overview
 ### Revenue Performance
-![image alt]()
+![image alt](https://github.com/Cnik1710/Pedalyn-Revenue-Returns-Product-Reliability-and-Customer-Profitability-Analysis/blob/f096ee8b3c364fbde70ccf0a9d45edcf1245f533/13.%20Pedalyn%20-%20Revenue%2C%20Returns%20%26%20Product%20Reliability%2C%20Customer%20Profitability%20Analysis%20(1)%20Dashboard.png)
 
 ### Returns & Product Reliability
-![image alt]()
+![image alt](https://github.com/Cnik1710/Pedalyn-Revenue-Returns-Product-Reliability-and-Customer-Profitability-Analysis/blob/f096ee8b3c364fbde70ccf0a9d45edcf1245f533/14.%20Pedalyn%20-%20Revenue%2C%20Returns%20%26%20Product%20Reliability%2C%20Customer%20Profitability%20Analysis%20(2)%20Dashboard.png)
 
 ### Customer Profitability
-![image alt]()
+![image alt](https://github.com/Cnik1710/Pedalyn-Revenue-Returns-Product-Reliability-and-Customer-Profitability-Analysis/blob/f096ee8b3c364fbde70ccf0a9d45edcf1245f533/15.%20Pedalyn%20-%20Revenue%2C%20Returns%20%26%20Product%20Reliability%2C%20Customer%20Profitability%20Analysis%20%20(3)%20Dasboard.png)
 
 ---
  
