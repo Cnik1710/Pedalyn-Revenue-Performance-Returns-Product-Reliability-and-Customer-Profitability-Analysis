@@ -1,1 +1,1 @@
-# Pedalyn - Revenue Performance, Returns & Product Reliability and Customer Profitability Analysis
+# Pedalyn - Revenue, Returns & Product Reliability and Customer Profitability Analysis
